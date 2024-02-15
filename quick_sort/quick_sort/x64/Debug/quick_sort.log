@@ -1,0 +1,5 @@
+﻿  quick_sort.cpp
+C:\Users\lizyu\acwing-basic\quick_sort\quick_sort\quick_sort.cpp(4,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\lizyu\acwing-basic\quick_sort\quick_sort\quick_sort.cpp(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\lizyu\acwing-basic\quick_sort\quick_sort\quick_sort.cpp(24,30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  quick_sort.vcxproj -> C:\Users\lizyu\acwing-basic\quick_sort\x64\Debug\quick_sort.exe
